@@ -1,6 +1,6 @@
 ### CASO HIPOTÉTICO
 
-O caso hipotético da Área de Atuação V - Programação Nível Técnico consiste na execução de três desafios que avaliam algumas habilidades e competências necessárias para um programador da ESP/CE, destacando-se resolução de problemas, lógica de programação e boas práticas de codificação.
+O caso hipotético da Área de Atuação III - Programação Nível Técnico consiste na execução de três desafios que avaliam algumas habilidades e competências necessárias para um programador da ESP/CE, destacando-se resolução de problemas, lógica de programação e boas práticas de codificação.
 
 ### DESAFIOS
 
